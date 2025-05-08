@@ -1,6 +1,6 @@
 // IndexedDB 相关操作
 let db;
-const dbName = "LoginDB";
+const dbName = "CLD";
 
 function initDB() {
     return new Promise((resolve, reject) => {
